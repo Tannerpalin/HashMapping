@@ -1,5 +1,3 @@
-Project 4 - CS315 with Dr.Raphael Finkel - Word Counter
-
 Author: Tanner Palin
 
 Sources: geeksforgeeks.org was extremely helpful with teaching me how to use and implement vectors.
