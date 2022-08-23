@@ -1,6 +1,6 @@
 Author: Tanner Palin
 
-Sources: geeksforgeeks.org also helped me firmly grasp the idea and implementation of external chaining.
+Sources: geeksforgeeks.org helped me firmly grasp the idea and implementation of external chaining.
 
 Sources: Will Shapiro for helping me come up with an efficient hashing equation.
 
